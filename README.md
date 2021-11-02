@@ -27,7 +27,7 @@ Este projeto foi executado com base no video apresentado por Md Irshad Ansari.
 - JavaScript;
 
 Site: 
-
+[batatinha_frita_123](https://batatinhafrita123.netlify.app)
 ---
 
 ## ⚙️ Funcionalidades
