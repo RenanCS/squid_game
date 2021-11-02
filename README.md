@@ -14,6 +14,9 @@
  <a href="#-tecnologias">CSS</a> •
 </p>
 
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/pt/thumb/e/e8/Squid_Game_poster.jpg/240px-Squid_Game_poster.jpg" alt="squid game"/>
+</p>
 
 ## 💻 Sobre o projeto
 
