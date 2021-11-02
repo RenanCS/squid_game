@@ -32,15 +32,24 @@
 
     <script>
         let audio;
+
         const icons = document.querySelectorAll('.container__card__icon');
-        icons.forEach(el => el.addEventListener('click', () => {
-            debugger;
-            if (!audio) {
-                audio = document.getElementById('audioID');
-                audio.muted = false;
-                audio.play();
-            }
-        }))
+
+        if (icons) {
+
+            const mainIcon = icons[1];
+
+            mainIcon.addEventListener('click', () => {
+                debugger;
+                if (!audio) {
+                    audio = document.getElementById('audioID');
+                    audio.muted = false;
+                    audio.play();
+                }
+            });
+        }
+
+
     </script>
 
     <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
