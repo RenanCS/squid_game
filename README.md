@@ -80,7 +80,7 @@ foi utilizado o flex-grow;
 flex-grow: 3;
 ```
 
-Para especificar a sobra do ícone e aumentando gradativamente, foi utilizado drop-shadow
+Para especificar a sombra do ícone e aumentando gradativamente, foi utilizado drop-shadow
 ```css
 filter: 
   drop-shadow(0 0 10px var(--purple)) 
